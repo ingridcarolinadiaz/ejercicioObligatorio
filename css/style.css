@@ -1,0 +1,43 @@
+.navbar-nav a:last-child {
+   color: green;
+ }
+.imgFondo {
+  background-image: url(../assets/img/hawaii.jpg); 
+  height: 80vh;
+  background-position: center;
+  background-size: cover;
+  margin-top: 5em;
+  background-color: rgb(48,54,54);
+  background-blend-mode: soft-light;
+}
+.btn {
+   float: left;
+   margin-right: 10px;
+}
+.card-text, .card-title {
+   float: left;
+  margin-right: 10px;
+}
+.card-body a.btn, .card-body h5, .card-body p {
+   text-align: left;
+}
+.col .card-body a.btn, .col .card-body h5, .col .card-body p {
+   text-align: left;
+}
+.bg-teal{
+   background: #1b4154;
+}
+.navbar {
+   height: 80px;
+}
+.navbar-nav a {
+   margin-right: 50px;
+}
+.botonEnviar{
+   background: #96c93c;
+}
+ 
+ 
+ 
+
+
